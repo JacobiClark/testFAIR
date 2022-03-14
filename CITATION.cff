@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with Fair Share.
+# Visit https://fairdataihub.org/fairshare to learn more!
+
+abstract: test for fair
+authors:
+- affiliation: California Medical Innovations Institute
+  email: jacobcs@zoho.com
+  family-names: Clark
+  given-names: Jacob
+cff-version: 1.2.0
+date-released: '2022-03-14'
+keywords:
+- Machine Learning
+- COVID-19
+- Artificial Intelligence
+license: AFL-2.0
+message: If you use this software, please cite it as below.
+repository-code: https://github.com/JacobiClark/testFAIR
+title: test3
+type: software
+version: 2.1.2
