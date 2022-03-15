@@ -13,9 +13,9 @@ keywords:
 - Machine Learning
 - COVID-19
 - Artificial Intelligence
-license: Glide
+license: MIT
 message: If you use this software, please cite it as below.
 repository-code: https://github.com/JacobiClark/testFAIR
 title: test3
 type: software
-version: 2.1.2
+version: 2.1.3
